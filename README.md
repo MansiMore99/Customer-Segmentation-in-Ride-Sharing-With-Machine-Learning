@@ -81,8 +81,7 @@ customer, it will help to decide short, mid, and long-distance riders.
 
    - Evaluation Metrics: MAE, MSE, R-squared
      
-     
-   <img width="310" alt="Screenshot 2024-11-05 at 3 48 12 PM" src="https://github.com/user-attachments/assets/40537a24-4a0d-4d12-9430-32fc8e2bd100">
+        <img width="310" alt="Screenshot 2024-11-05 at 3 48 12 PM" src="https://github.com/user-attachments/assets/40537a24-4a0d-4d12-9430-32fc8e2bd100">
    
 
    - Both Random Forest and XGBoost yielded strong results, with comparable accuracy.
