@@ -26,7 +26,7 @@ We categorize customers using different segmentation approaches to uncover speci
 - **Travel Distances (short, medium, long)**
 
 
-This segmentation will help businesses to create appropriate customer loyalty solutions and enhance the services offered by ride-sharing services.
+##### This segmentation will help businesses to create appropriate customer loyalty solutions and enhance the services offered by ride-sharing services.
 ---
 
 ### Segmentation Types
