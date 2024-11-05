@@ -83,13 +83,6 @@ customer, it will help to decide short, mid, and long-distance riders.
      
    <img width="310" alt="Screenshot 2024-11-05 at 3 48 12 PM" src="https://github.com/user-attachments/assets/40537a24-4a0d-4d12-9430-32fc8e2bd100">
 
-
-   | Model                  | MAE  | MSE   | R-squared |
-   |------------------------|------|-------|-----------|
-   | Random Forest Regressor | 7.09 | 76.66 | 0.12      |
-   | XGBoost                | 7.09 | 76.66 | 0.12      |
-   | Linear Regression      | 7.17 | 78.64 | 0.09      |
-
    - Both Random Forest and XGBoost yielded strong results, with comparable accuracy.
    - **Random Forest Regressor** was selected as the final model due to its accuracy and stability.
 
