@@ -1,4 +1,3 @@
-# Customer-Segmentation-with-Machine-Learning
 
 Here is my capstone project that uses more than 1,000,000 data samples in customer analytics to find out the retention and satisfaction solutions for ride-hailing giants such as Uber and Lyft.
 
@@ -6,7 +5,7 @@ Here is my capstone project that uses more than 1,000,000 data samples in custom
 ![DALLE2024-11-0514 38 49-Avisuallyappealingimagerepresentingacapstoneprojectoncustomersegmentationinride-sharingshowcasingkeytermslikeMachineLearningUb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/b92377ae-c52b-4c58-9670-53d333b28c27)
 
 
-## Dataset:
+### Dataset:
 
 **Uber-Lyft Dataset:** [Kaggle - Uber and Lyft Dataset (Boston, MA)](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 
@@ -14,9 +13,6 @@ This dataset shows ride-hailing information in Boston, MA, so we can study custo
 
 Our objective is to determine different segments based on their ride patterns and behaviors and create business strategies to help ride companies with the increase in customers. Our primary goal is to help ride companies with the business logic and marketing strategies to achieve the target.
 
-1. **Direct Marketing Techniques** – the provision of special incentives to customers to popularize the acquisition.
-2. **Service Improvement** – improving delivery of fleet service and access at peak moments.
-3. **Dynamic Pricing Models** – a particular pricing strategy that tries to alter the prices within the areas according to the demand of its present consumer group in order to optimize the overall revenue.
 
 ---
 
@@ -43,7 +39,7 @@ commuter or an Evening commuter
 • It will fetch information about a day of the week, whether the customer commuting on
 weekdays or weekdays for school or work
 
-3.** Source Segment:**
+3.**Source Segment:**
 It will identify common pick-up locations so that in the future we can do overshare for
 people who live nearby locations while going to work and school.
 
@@ -53,7 +49,7 @@ workplace or from the university.
 
 5. **Cab Segment:**
 • This segmentation is based on the cab type, just to see how many people like to
-commute by Lyft and uber.
+commute by Lyft and Uber.
 • when we understand these preferences it will be easy for a particular company with the
 offers and discounts and it will help to add on more marketing strategies to gain more
 customers.
@@ -77,7 +73,6 @@ customer, it will help to decide short, mid, and long-distance riders.
    - Data type Conversion
   
      <img width="857" alt="Screenshot 2024-11-05 at 3 22 50 PM" src="https://github.com/user-attachments/assets/f5eb67bb-e94c-4860-8022-8cbbfbb0de11">
-
 
 3. **Machine Learning Models**
    - Models Tested:
