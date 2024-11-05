@@ -36,43 +36,59 @@ This segmentation enables businesses to design relevant customer retention progr
 
 ### Segmentation Types
 
-1. **Time Segment**
-   - Identifies commuters by time of day (e.g., morning, evening).
-   - Allows targeting of peak travel hours with special offers.
-   
-2. **Day Segment**
-   - Groups travelers by weekday or weekend, enabling targeted promotions (e.g., weekend discounts).
-   
-3. **Source Segment**
-   - Clusters common pick-up points for shared rides, potentially reducing wait times.
-   
-4. **Destination Segment**
-   - Clusters common drop-off locations, facilitating ride-sharing options for popular destinations.
-   
-5. **Cab Type Segment**
-   - Compares preference for Uber vs. Lyft, aiding competitive pricing and promotions.
-   
-6. **Distance Segment**
-   - Groups riders by trip distance, enabling companies to offer discounts for longer rides or incentivize loyalty for frequent, shorter trips.
+1. **Time Segment:**
+• It will fetch information about hour of a day, whether the customer is a Morning
+commuter or an Evening commuter
+
+
+2. **Day segment:**
+• It will fetch information about a day of the week, whether the customer commuting on
+weekdays or weekdays for school or a work
+
+3.** Source Segment:**
+It will identify common pick-up locations so that in the future we can do uberShare for
+people who live nearby locations while going to work and school.
+
+4. **Destination Segement:**
+• It will identify common drop-off locations so that in the future, We can do uberShare for people who live nearby locations while coming back from the
+workplace or from the university.
+
+5. **Cab Segment:**
+• This segmentation is based on the cab type, just to see how many people likes to
+commute by lyft and uber.
+• when we understand this preferences it will be easy for a particular compnies with the
+offers and discounts and it will help to add on more marketing strategies to gain more
+customers.
+
+6. **Distance Segment:**
+• This segmentation groups the distance from the source to the destination for each
+customer, it will help to decide short, mid, and long-distance riders.
 
 ---
+
 
 ## Project Workflow
 
 1. **Data Preprocessing**
-   - **Drop Unnecessary Columns:** Remove irrelevant data fields.
-   - **Handle Missing Values:** Impute or eliminate missing data to ensure data integrity.
-   - **Feature Engineering:** Convert data types as needed and engineer new features for improved model accuracy.
+   - **Drop Unnecessary Columns:**
+   - **Feature Engineering:**   
 
 2. **Exploratory Data Analysis (EDA)**
-   - Analyze customer behaviors and visualize common ride patterns to inform segmentation.
-   - Identify critical factors influencing customer preferences.
+   - Checking and Handling Missing values
+   - Data Visualization:
+   - Data type Conversion
+  
+     <img width="857" alt="Screenshot 2024-11-05 at 3 22 50 PM" src="https://github.com/user-attachments/assets/f5eb67bb-e94c-4860-8022-8cbbfbb0de11">
+
 
 3. **Machine Learning Models**
    - Models Tested:
      - **Random Forest Regressor**
      - **Linear Regression**
      - **XGBoost**
+    
+4. **Model Evaluation and Selection**
+
    - Evaluation Metrics: MAE, MSE, R-squared
 
    | Model                  | MAE  | MSE   | R-squared |
@@ -81,29 +97,40 @@ This segmentation enables businesses to design relevant customer retention progr
    | XGBoost                | 7.09 | 76.66 | 0.12      |
    | Linear Regression      | 7.17 | 78.64 | 0.09      |
 
-4. **Model Evaluation and Selection**
    - Both Random Forest and XGBoost yielded strong results, with comparable accuracy.
    - **Random Forest Regressor** was selected as the final model due to its accuracy and stability.
 
 ---
 
-## Summary and Key Insights
+## Summary and Recommendations
 
-The analysis of customer behavior across various segments uncovered several actionable insights:
-- **Targeted Marketing:** Design campaigns based on segments, such as weekday vs. weekend users, or morning vs. evening commuters.
-- **Service Optimization:** Adjust fleet distribution to meet high-demand locations and times.
-- **Dynamic Pricing:** Use demand trends to refine pricing strategies, maximizing profit while keeping riders satisfied.
-- **Customer Loyalty Programs:** Implement incentive-based programs to retain long-distance and frequent commuters.
+The patterns of ride behaviors detected in the Uber and Lyft dataset include the timing of commutation, the choice of the pickup/drop location, and the Uber/Lyft split. More specific market segments are morning and evening rush hour travelers, weekend travelers, short-distance travelers and long-distance travelers.:
 
+- **Targeted Marketing:** Create appealing campaigns depending on the dividing users into some groups; for instance, offering special offers for weekend trippers or bonuses for early morning rush-hour travelers.
+• **Service Optimization:** To reduce delay during peak hours and on crowded stations, there should be an optimization of the fleet circulation.
+• **Dynamic Pricing:** Make sure pricing and revenue strategies use demand patterns to continue to maintain and maximize the income from customers.
+• **Customer Loyalty Programs:** Implement a system to give incentives to regular commuters and customers in order to encourage them to stick around. They can help to enhance customer acquisition and business effectiveness with
 ---
 
-## Recommendations for Ride-Sharing Companies
+## 💬 Feedback & Support
 
-1. **Deploy Targeted Marketing Campaigns**: Offer promotions tailored to customer segments (e.g., long-distance riders or weekend travelers).
-2. **Optimize Fleet Circulation**: Ensure efficient vehicle availability in high-demand locations during peak hours.
-3. **Dynamic Pricing Adjustment**: Leverage demand data to set flexible prices, maintaining competitive rates while maximizing revenue.
-4. **Customer Loyalty Programs**: Introduce membership or discount programs for regular and long-distance riders to boost retention and build loyalty.
+I'm always looking to improve! Share your thoughts and suggestions:
 
----
+- **Email:** mansi.more943@gmail.com
+- **GitHub:** [MansiMore99](https://github.com/MansiMore99)
+- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
+
+Also, feel free to check out my articles on Medium.
+
+- **Mediam:** [MansiMore99](https://medium.com/@mansi.more943)
+
+
+## 📢 Contributing
+
+Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
+
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
 
 
