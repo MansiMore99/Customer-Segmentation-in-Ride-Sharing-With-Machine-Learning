@@ -1,5 +1,5 @@
 
-Here is my capstone project that uses more than 1,000,000 data samples in customer analytics to find out the retention and satisfaction solutions for ride-hailing giants such as Uber and Lyft.
+Here is my capstone project that uses more than 1M data samples in customer analytics to find out the retention and satisfaction solutions for ride-hailing giants such as Uber and Lyft.
 
 
 ![DALLE2024-11-0514 38 49-Avisuallyappealingimagerepresentingacapstoneprojectoncustomersegmentationinride-sharingshowcasingkeytermslikeMachineLearningUb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/b92377ae-c52b-4c58-9670-53d333b28c27)
