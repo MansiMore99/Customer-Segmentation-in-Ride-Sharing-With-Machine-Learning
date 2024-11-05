@@ -80,6 +80,9 @@ customer, it will help to decide short, mid, and long-distance riders.
 4. **Model Evaluation and Selection**
 
    - Evaluation Metrics: MAE, MSE, R-squared
+     
+   <img width="310" alt="Screenshot 2024-11-05 at 3 48 12 PM" src="https://github.com/user-attachments/assets/40537a24-4a0d-4d12-9430-32fc8e2bd100">
+
 
    | Model                  | MAE  | MSE   | R-squared |
    |------------------------|------|-------|-----------|
