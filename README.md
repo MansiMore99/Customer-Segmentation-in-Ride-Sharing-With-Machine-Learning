@@ -25,31 +25,28 @@ We categorize customers using different segmentation approaches to uncover speci
 - **Cab Types (Uber, Lyft)**
 - **Travel Distances (short, medium, long)**
 
+
 This segmentation will help businesses to create appropriate customer loyalty solutions and enhance the services offered by ride-sharing services.
 ---
 
 ### Segmentation Types
 
 1. **Time Segment:**
-• It will fetch information about hour of the day, whether the customer is a Morning
-commuter or an Evening commuter
+• It will fetch information about hour of the day, whether the customer is a Morning commuter or an Evening commuter
 
 
 2. **Day segment:**
-• It will fetch information about a day of the week, whether the customer commuting on
-weekdays or weekdays for school or work
+• It will fetch information about a day of the week, whether the customer commuting on weekdays or weekdays for school or work
 
-3.**Source Segment:**
-It will identify common pick-up locations so that in the future we can do overshare for
-people who live nearby locations while going to work and school.
+3. **Source Segment:**
+It will identify common pick-up locations so that in the future we can do overshare for people who live nearby locations while going to work and school.
 
 4. **Destination Segement:**
 • It will identify common drop-off locations so that in the future, We can do ubershare for people who live nearby locations while coming back from the
 workplace or from the university.
 
 5. **Cab Segment:**
-• This segmentation is based on the cab type, just to see how many people like to
-commute by Lyft and Uber.
+• This segmentation is based on the cab type, just to see how many people like to commute by Lyft and Uber.
 • when we understand these preferences it will be easy for a particular company with the
 offers and discounts and it will help to add on more marketing strategies to gain more
 customers.
