@@ -1,5 +1,8 @@
+#### **Capstone Project:**
 
-Here is my capstone project that uses more than 1M data samples in customer analytics to find out the retention and satisfaction solutions for ride-hailing giants such as Uber and Lyft.
+Customer segmentation means dividing customers with similar features into distinct groups so that we can provide services according to their requirements. In our dataset, customer segments will help us to find the pattern of the dataset, for example, different kinds of rides, locations, time, and many other features. Let’s find what's all are there in the dataset.
+
+Here is my capstone project which analyzes around 1 million data points in customer analytics to develop segmentation strategies that boost retention and satisfaction for ride-hailing companies like Uber and Lyft.
 
 
 ![DALLE2024-11-0514 38 49-Avisuallyappealingimagerepresentingacapstoneprojectoncustomersegmentationinride-sharingshowcasingkeytermslikeMachineLearningUb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/b92377ae-c52b-4c58-9670-53d333b28c27)
