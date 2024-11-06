@@ -1,4 +1,6 @@
-#### **Capstone Project:**
+## **Capstone Project:**
+
+---
 
 Customer segmentation means dividing customers with similar features into distinct groups so that we can provide services according to their requirements. In our dataset, customer segments will help us to find the pattern of the dataset, for example, different kinds of rides, locations, time, and many other features. Let’s find what's all are there in the dataset.
 
